@@ -2,20 +2,20 @@
 A basic HTML form that collects users input and submits it to to a specified email address.
 
 PURPOSE OF THE FORM:
-The purpose of the this form isto provide a simple way for users to contact us. The form collects the user's name,email address and message.
+ The purpose of the this form isto provide a simple way for users to contact us. The form collects the user's name,email address and   message.
 
 Form Structure
-The form consists of the following sections:
-1.Name Field:a text input field where the user can enter their name.
-2.Email Field: An email input field where the user can enter their email address.
-3.Message Field: A text area where the user can enter their message.
-4. Reset Button:A button that resets the data if you have entered incorrect data. 
-5.Submit Button: A button that submits the form data.
+ The form consists of the following sections:
+  1.Name Field:a text input field where the user can enter their name.
+  2.Email Field: An email input field where the user can enter their email address.
+  3.Message Field: A text area where the user can enter their message.
+  4. Reset Button:A button that resets the data if you have entered incorrect data. 
+  5.Submit Button: A button that submits the form data.
 
 File Structure:
-The repository contains the following files:
-*index.html:The HTML file that contains the form structure and implementation.
-*README.md: This file, which provides information about the project.
+ The repository contains the following files:
+  *index.html:The HTML file that contains the form structure and implementation.
+  *README.md: This file, which provides information about the project.
 
 Implementation Approach:
 The form is implemented using basic HTML and CSS. The form data is submitted to a specified email address using Formspree.
