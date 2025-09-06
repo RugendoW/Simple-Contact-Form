@@ -29,5 +29,5 @@ How to Use/View the form:
 Notes:
 Make sure to replace replace the email address in the index.html file with your own email address if you want to use Formspree.
 
-file:///C:/Users/USER/Programming/Programmimg/forms.html
+
 
