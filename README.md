@@ -3,7 +3,8 @@ A basic HTML form that collects users input and submits it to to a specified ema
 
 <h2>The Purpose of The Form:</h2>
 
-The purpose of the this form isto provide a simple way for users to contact us. The form collects the user's name,email address and   message.
+The purpose of the this form isto provide a simple way for users to contact us. 
+<P>The form collects the user's name,email address and   message.</P>
 
 <h2>Form Structure</h2>
  <h4>The form consists of the following sections:</h4>
@@ -18,8 +19,8 @@ The purpose of the this form isto provide a simple way for users to contact us. 
  
      <h2>File Structure</h2>
  <h4>The repository contains the following files:</h4>
-  index.html:The HTML file that contains the form structure and implementation.
-  README.md: This file, which provides information about the project.
+ <li>Index.html:The HTML file that contains the form structure and implementation.</li>
+ <li> README.md: This file, which provides information about the project.</li>
 
 <h2>Implementation Approach</h2>
   
