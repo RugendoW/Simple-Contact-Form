@@ -1,7 +1,7 @@
 # Simple-Contact-Form
 A basic HTML form that collects users input and submits it to to a specified email address.
 
-The Purpose of The Form:
+<h2>The Purpose of The Form:</h2>
 
 The purpose of the this form isto provide a simple way for users to contact us. The form collects the user's name,email address and   message.
 
@@ -13,12 +13,13 @@ Form Structure
   4. Submit Button: A button that submits the form data.
   5. Email Field: An email input field where the user can enter their email address.
 
-File Structure:
+     <h2>File Structure</h2>
  The repository contains the following files:
   *index.html:The HTML file that contains the form structure and implementation.
   *README.md: This file, which provides information about the project.
 
-Implementation Approach:
+<h2>Implementation Approach</h2>
+  
 The form is implemented using basic HTML and CSS. The form data is submitted to a specified email address using Formspree.
 
 How to Use/View the form:
@@ -27,7 +28,8 @@ How to Use/View the form:
 3. Fill out the form fields and submit the form.
 4. the form data will be sent to the specified email address.
 
-Notes:
+<h2>Notes:</h2>
+
 Make sure to replace replace the email address in the index.html file with your own email address if you want to use Formspree.
 
 
