@@ -5,7 +5,7 @@ A basic HTML form that collects users input and submits it to to a specified ema
 
 The purpose of the this form isto provide a simple way for users to contact us. The form collects the user's name,email address and   message.
 
-Form Structure
+<h2>Form Structure</h2>
  <h4>The form consists of the following sections:</h4>
   1. Name Field:a text input field where the user can enter their name.
   2. Message Field: A text area where the user can enter their message.
