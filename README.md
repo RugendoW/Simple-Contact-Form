@@ -7,26 +7,31 @@ The purpose of the this form isto provide a simple way for users to contact us. 
 
 <h2>Form Structure</h2>
  <h4>The form consists of the following sections:</h4>
-  1. Name Field:a text input field where the user can enter their name.
-  2. Message Field: A text area where the user can enter their message.
-  3. Reset Button:A button that resets the data if you have entered incorrect data. 
-  4. Submit Button: A button that submits the form data.
-  5. Email Field: An email input field where the user can enter their email address.
+ <ol>
+ <li>Name Field:a text input field where the user can enter their name.</li>
+ <li>Message Field: A text area where the user can enter their message.</li>
+ <li>Reset Button:A button that resets the data if you have entered incorrect data.</li> 
+ <li>Submit Button: A button that submits the form data.</li>
+ <li>Email Field: An email input field where the user can enter their email address.</li>
+  </ol>
 
+ 
      <h2>File Structure</h2>
  <h4>The repository contains the following files:</h4>
-  *index.html:The HTML file that contains the form structure and implementation.
-  *README.md: This file, which provides information about the project.
+  index.html:The HTML file that contains the form structure and implementation.
+  README.md: This file, which provides information about the project.
 
 <h2>Implementation Approach</h2>
   
 The form is implemented using basic HTML and CSS. The form data is submitted to a specified email address using Formspree.
 
 <h2>How to Use/View the form:</h2>
-1. clone the repository to your local machine.
-2. Open the index.html file in a web browser.
-3. Fill out the form fields and submit the form.
-4. the form data will be sent to the specified email address.
+<ol>
+<li>clone the repository to your local machine.</li>
+<li>Open the index.html file in a web browser.</li>
+<li>Fill out the form fields and submit the form.</li>
+<li>the form data will be sent to the specified email address.</li>
+</ol>
 
 <h2>Notes:</h2>
 
