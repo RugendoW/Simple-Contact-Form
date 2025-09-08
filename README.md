@@ -1,8 +1,9 @@
 # Simple-Contact-Form
 A basic HTML form that collects users input and submits it to to a specified email address.
 
-PURPOSE OF THE FORM:
- The purpose of the this form isto provide a simple way for users to contact us. The form collects the user's name,email address and   message.
+The Purpose of The Form:
+
+The purpose of the this form isto provide a simple way for users to contact us. The form collects the user's name,email address and   message.
 
 Form Structure
  The form consists of the following sections:
