@@ -6,11 +6,11 @@ PURPOSE OF THE FORM:
 
 Form Structure
  The form consists of the following sections:
-   1.Name Field:a text input field where the user can enter their name.
+  1. Name Field:a text input field where the user can enter their name.
    2.Email Field: An email input field where the user can enter their email address.
-   3.Message Field: A text area where the user can enter their message.
+  3. Message Field: A text area where the user can enter their message.
    4. Reset Button:A button that resets the data if you have entered incorrect data. 
-   5.Submit Button: A button that submits the form data.
+  5. Submit Button: A button that submits the form data
 
 File Structure:
  The repository contains the following files:
