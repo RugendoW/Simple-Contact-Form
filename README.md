@@ -1,4 +1,4 @@
-<h1># Simple-Contact-Form</h1>
+<h1># Simple-Order-Form</h1>
 A basic HTML form that collects users input and submits it to to a specified email address.
 
 <h2>The Purpose of The Form:</h2>
