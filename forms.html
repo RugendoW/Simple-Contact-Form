@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <h1>Welcome To About Page</h1>
+        <nav aria-label="main navigation">
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="services.html">Services</a>
+            <a href="contact.html">Contact</a>
+            <a href="forms.html">Forms</a>
+        </nav>
+    </header>
+    <main>
+        <br>
+        <form action="" method="POST">
+    
+      <h2>Customer Information</h2>
+        <!--Text Input -->
+        <div>
+           <label for="name">First name</label>
+         <input type="text" id="name"name="fname" placeholder="spongebob"required>
+        </div>
+        
+        <br>
+        
+        <div>
+           <label for="name">Last name</label>
+           <input type="text" id="name"name="Lname" placeholder="squarepant" required>
+        </div>
+        <br>
+        <div>
+            <label for="pass">Password</label>
+            <input type="password" id="pass"name="pass"maxlength="16"required>
+        </div>
+        <br>
+        <div>
+            <label for="email">Email</label>
+            <input type="email"id="email"name="email"placeholder="spongebob@gmail.com"required>
+            
+        </div>
+        <br>
+        <div>
+            <label for ="address">Address</label>
+            <textarea id="address"name="address"placeholder="123 street,city,Nairobi"required></textarea>
+        </div>
+
+        <br>
+        <div>
+            <label for="phone">Phone</label>
+            <input type="tel" id="phone"name="phone"placeholder="+254 783632645"required>
+        </div>
+        <br>
+        <div>
+            <label for="bdate">Birthdate</label>
+            <input type="date" id="bdate"name="bdate"required>
+        </div>
+        <br>
+        <div>
+            <label for="product">product</label>
+            <select id="product"name="product"required>
+                <option value="laptop">laptop</option>
+                <option value="Mobile">Mobile</option>
+                <option value="Tablet">Tablet</option>
+                <option value="Desktop">Desktop</option>
+            </select>
+        </div>
+        <br>
+        <div>
+            <label for="quantity">Quantity</label>
+            <input type="number"id="quantity"name="quantity"min="1"max="10"required>
+                
+        </div>
+        <br>
+        <div>
+            <label for="color">Color</label>
+            <select id="color"name="color"required>
+                <option value="Black">Black</option>
+                <option value="White">pink</option>
+                <option value="Silver">Silver</option>
+                <option value="Gold">Gold</option>
+                </select>
+
+        </div>
+        <br>
+        <div>
+            <label for="payment">Payment</label>
+            <select id="payment"name="payment">
+                <option value="Visa">Visa</option>
+                <option value="Marstercard">Marstercard</option>
+                <option value="Giftcard">Giftcard</option>
+            </select>
+        </div>
+        <br>
+        <!--Shipping Information-->
+        <div>
+            <label for="Shipping ">Shipping street</label>
+            <textarea id="Shipping"name="Shipping" placeholder="street address,123"required></textarea>
+
+        </div>
+        <br>
+        <div>
+        <label for="shipping">Preferred Shipping Method</label>
+        <select id="shipping"name="shipping"required>
+            <option value="Free">Expedited</option>
+            <option value="Express">Standard</option>
+            <option value="Overnight">Two-day</option>
+        </select>
+        </div>
+            
+        <br>
+            <div>
+            <label for="shipping">Shipping</label>
+            <select id="shipping"name="shipping"required>
+                <option value="Free">Free</option>
+                <option value="Express">Express</option>
+                <option value="Overnight">Overnight</option>
+            </select>
+            
+        </div>
+        <br>
+        <div>
+            <label for="order">Order</label>
+            <input type="checkbox"id="order"name="order">
+        </div>
+        <br>
+        <div>
+            
+            <label for="reset">Reset</label>
+            <input type="reset">
+        </div>
+        <br>
+        <div>
+            <label for="submit">submit</label>
+            <input type="submit">
+        </div>
+     </form>
+</body>
+</html>
